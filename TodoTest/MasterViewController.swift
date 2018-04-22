@@ -16,7 +16,7 @@ class MasterViewController: UITableViewController, NSFetchedResultsControllerDel
     
     
     override func awakeFromNib() {
-        self.navigationItem.title = "data view"
+        self.navigationItem.title = "TODO"
     }
 
 
